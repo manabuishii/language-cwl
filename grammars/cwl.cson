@@ -1,0 +1,10 @@
+'scopeName': 'source.cwl'
+'name': 'CWL'
+'fileTypes': ['cwl']
+'patterns': [
+  {
+    # comment
+    'match': '#.*$'
+    'name': 'comment.line.number-sign.cwl'
+  }
+]

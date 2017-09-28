@@ -1,0 +1,20 @@
+{
+  "name": "language-cwl",
+  "version": "0.0.0",
+  "description": "CWL support in Atom",
+  "keywords": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manabuishii/language-cwl"
+  },
+  "bugs": {
+    "url": "https://github.com/manabuishii/language-cwl/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
