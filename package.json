@@ -1,6 +1,6 @@
 {
   "name": "language-cwl",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "CWL support in Atom",
   "keywords": [],
   "repository": {
