@@ -3,6 +3,11 @@
 'fileTypes': ['cwl']
 'patterns': [
   {
+    # keyword
+    'match': '\\b(cwlVersion)\\b'
+    'name': 'keyword.control.cwl'
+  },
+  {
     # comment
     'match': '#.*$'
     'name': 'comment.line.number-sign.cwl'
