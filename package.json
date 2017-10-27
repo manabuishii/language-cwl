@@ -11,6 +11,9 @@
     "url": "https://github.com/manabuishii/language-cwl/issues"
   },
   "license": "MIT",
+  "keywords": [
+    "cwl"
+  ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
