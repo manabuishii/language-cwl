@@ -7,20 +7,20 @@
     'name': 'string.quoted.single.cwl'
     'begin': "'"
     'end': "'"
-    'patterns':  ({
+    'patterns':  {
       'name': 'constant.character.escape.cwl'
       'match': '\\.'
-      })
+      }
   },
   {
     # double quote string
     'name': 'string.quoted.double.cwl'
     'begin': '"'
     'end': '"'
-    'patterns':  ({
+    'patterns':  {
       'name': 'constant.character.escape.cwl'
       'match': '\\.'
-      })
+      }
   },
   {
     # keyword
