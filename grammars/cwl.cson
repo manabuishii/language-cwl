@@ -35,7 +35,7 @@
     'end': '$'
     'endCaptures':
         '0':
-            'name': 'cwlVersion.definition.string.end.mylanguage'
+            'name': 'cwlVersion.definition.string.end.cwl'
     'name': 'cwlVersion.cwl'
     'patterns': [{
       # CWLVersion http://www.commonwl.org/v1.0/Workflow.html#CWLVersion
