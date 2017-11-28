@@ -55,7 +55,7 @@
     'name': 'dockerPull.cwl'
     'patterns': [{
       # docker images
-      'match': '\\b(.*)\\b'
+      'match': '\\b(.*)$'
       'name': 'storage.variable.cwl'
     }]
   },
