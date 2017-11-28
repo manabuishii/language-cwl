@@ -1,0 +1,4 @@
+'.source.cwl':
+  'Quay Biocontainers':
+    'prefix': 'qb'
+    'body': 'quay.io/biocontainers/'
